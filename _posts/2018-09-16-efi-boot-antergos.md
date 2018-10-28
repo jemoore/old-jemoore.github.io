@@ -21,7 +21,7 @@ Make sure you have backups. If you do not have backups, use the live iso to back
 
 ## The Solution
 
-Open a terminal and use the following commands to list the devices and partitions.
+Open a terminal and use the following command to list the devices and partitions.
 
 ```bash
 sudo fdisk -l
@@ -48,9 +48,9 @@ Partition table entries are not in disk order.
 
 From the above results I can see that the EFI boot partition is /dev/sda1.
 I also can recall that when I originally installed Antergos I created:
-/dev/sda6 - root partition
-/dev/sda7 - swap partition
-/dev/sda8 - home partition
+* /dev/sda6 - root partition
+* /dev/sda7 - swap partition
+* /dev/sda8 - home partition
 
 Next, the root partition should be mounted
 
