@@ -118,7 +118,7 @@ author:
 #      url: "https://linkedin.com/in/jeffery-moore-83b7b97"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/jeff_e_moore"
+      url: "https://twitter.com/jeff_e_moore"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jemoore"
