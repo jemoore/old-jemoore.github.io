@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeff Moore"
-  avatar           : "/images/portrait-small-bw.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/portrait_small-bw.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Senior Software Developer"
   location         : "Houston, TX"
   email            :
