@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /linux/
-title: "Linux Posts by Tags"
+permalink: /tags/
+title: "Posts by Tag"
 author_profile: true
 header:
   image: "/images/background1.jpg"
