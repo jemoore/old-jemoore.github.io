@@ -1,7 +1,7 @@
 ---
 title: "Memories of My First Code"
 date: 2018-11-03
-tags: [code, basic, memories]
+tags: [code, BASIC, memories]
 header:
   image: "/images/trs-80-model3.jpg"
 excerpt: "Memories of my first code and my uncle who made it happen."
@@ -33,9 +33,9 @@ Uncle Gene was a multifaceted person.  He was an accomplished painter and writer
 ## The Day After
 I had a difficult time sleeping last night.  The thought of not being able to visit Uncle Gene again, thoughts of guilt for living so far away, thoughts of sorrow for my cousins, for my father, his sister and younger brother.  I thought about all the time I had spent with my cousins and Uncle Gene.  It's difficult for me not to write more here about all the other things that I can easily remember about Uncle Gene (ColecoVision, Atari, Laser Disk, VCR, Televisions and Ice Tea - don't mix, painting, discussing books, philosophy).
 
-If there is an afterlife, I figure Uncle Gene is sitting at a table playing cards with a glass of iced tea at his side and book he is looking forward to getting back to reading.
+If there is an afterlife, I expect Uncle Gene is sitting at a table playing cards with a glass of iced tea at his side and a book he is looking forward to getting back to reading.
 
-In my unworthy tribute to Uncle Gene, I sat down at the keyboard and had some fun.  I coded a 'Connect Four' text based game.  I didn't think about 'proper' program structure, error checking of inputs, best practices and all of the other 'baggage' that will often slow me down.  I just started writing some code, thought about what I wanted to happen, and had fun.
+In my unworthy tribute to Uncle Gene, I sat down at the keyboard and had some fun.  I coded a 'Connect Four' text based game.  I didn't think about 'proper' program structure, error checking of inputs, best practices and all of the other (necessary) 'baggage' that will often slow me down.  I just started writing some code, thought about what I wanted to happen, and had fun.
 
 Yeah, it's a NumPy array. Who cares?
 
